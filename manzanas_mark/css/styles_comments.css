@@ -38,8 +38,9 @@ ul#comments_list li span.username::before {
   display: inline-block;
   width: 40px;
   height: 40px;
-  background-image: url('images/profile.png');
+  background-image: url('../images/profile.png');
   background-size: cover;
   background-repeat: no-repeat;
+  border-radius: 50px;
   margin-right: 10px;
 }
